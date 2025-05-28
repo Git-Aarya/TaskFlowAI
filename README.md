@@ -149,8 +149,6 @@ In the project directory, you can run:
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ---
 
 This README should provide a good overview and setup instructions for anyone looking at your project!
