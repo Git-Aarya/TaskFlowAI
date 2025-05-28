@@ -1,10 +1,12 @@
 // src/services/geminiApi.js
 // Purpose: Handles calls to the Gemini API.
 
-const GEMINI_API_KEY = ""; // Leave empty, will be handled by the environment
+const GEMINI_API_KEY = process.env.REACT_APP_GEMINI_API_KEY || ""; // Directly use the environment variable
+
 
 export const callGeminiApi = async (prompt, isJsonOutput = false) => {
     const model = 'gemini-2.0-flash';
+    console.log("Gemini API Key being used:", GEMINI_API_KEY); // <<< ADD THIS LINE
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_API_KEY}`;
     const payload = { contents: [{ role: "user", parts: [{ text: prompt }] }] };
     if (isJsonOutput) {
