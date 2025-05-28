@@ -148,7 +148,8 @@ In the project directory, you can run:
     If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 ## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
 
-This README should provide a good overview and setup instructions for anyone looking at your project!
+[![TaskFlowAI Demo Video](https://img.youtube.com/vi/a3g9Sbgarg8/maxresdefault.jpg)]([https://www.youtube.com/shorts/5WpsDI5CkCk](https://www.youtube.com/watch?v=a3g9Sbgarg8))
