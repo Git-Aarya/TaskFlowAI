@@ -152,4 +152,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-[![TaskFlowAI Demo Video](https://img.youtube.com/vi/a3g9Sbgarg8/maxresdefault.jpg)]([https://www.youtube.com/shorts/5WpsDI5CkCk](https://www.youtube.com/watch?v=a3g9Sbgarg8))
+## 🎥 Demo
+Watch a demo of TaskFlow AI here: [TaskFlow AI - Demo Video](https://www.youtube.com/watch?v=a3g9Sbgarg8)
