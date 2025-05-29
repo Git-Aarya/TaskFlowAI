@@ -155,5 +155,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## 🎥 Demo
 Watch a demo of TaskFlow AI here: [TaskFlow AI - Demo Video](https://www.youtube.com/watch?v=a3g9Sbgarg8)
 Check out this video demo of TaskFlow AI in action!
-[![Gameplay Updraft Odyssey](https://img.youtube.com/vi/a3g9Sbgarg8/maxresdefault.jpg)](https://www.youtube.com/watch?v=a3g9Sbgarg8)
+[![TaskFlowAI Demo Video](https://img.youtube.com/vi/a3g9Sbgarg8/maxresdefault.jpg)](https://www.youtube.com/watch?v=a3g9Sbgarg8)
 *Click the image above to watch the demo on YouTube.*
